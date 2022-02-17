@@ -5,6 +5,7 @@ import React from 'react'
         alert('Kotariliyor')
     };
     const deal = (input) => {
+        //hey
         alert('Ugrasiliyor ' + input )
     };
     return (
